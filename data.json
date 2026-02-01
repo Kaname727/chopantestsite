@@ -3,15 +3,15 @@
         "category": "Nocturne",
         "title": "Nocturne Op. 9 No. 2",
         "opus": "Op. 9 No. 2",
-        "description": "夜の静寂に響く、最も愛された旋律。",
+        "description": "夜の静寂に響く、最も愛された旋律。甘美で感傷的な夜想曲。",
         "tags": ["Nocturne", "Piano"],
-        "spotifyId": "61YM5SkqqeUjIBL7It56cs" 
+        "spotifyId": "61YM5SkqqeUjIBL7It56cs"
     },
     {
         "category": "Polonaise",
         "title": "Heroic Polonaise",
         "opus": "Op. 53",
-        "description": "「英雄」。力強く壮大な傑作。",
+        "description": "「英雄」。力強く、祖国ポーランドへの誇りに満ちた壮大な傑作。",
         "tags": ["Polonaise", "Heroic"],
         "spotifyId": "2MSgFefjK0T7Iwjvr3OKqV"
     },
@@ -21,7 +21,7 @@
         "opus": "Op. 10 No. 12",
         "description": "「革命」。激動の感情が左手の奔流となって押し寄せる練習曲。",
         "tags": ["Etude", "Dramatic"],
-        "youtubeId": "Gi5VTBdKbFM"
+        "spotifyId": "1TdfFj9U1F4Q1jM8W6m6Wf"
     },
     {
         "category": "Waltz",
@@ -29,23 +29,23 @@
         "opus": "Op. 64 No. 1",
         "description": "「子犬のワルツ」。軽やかで愛らしい、一瞬のきらめきのような舞曲。",
         "tags": ["Waltz", "Minute"],
-        "youtubeId": "3H0SRv8Qn3A"
+        "spotifyId": "2E9YpC68lXmI7S1D9A7N1z"
     },
     {
         "category": "Ballade",
         "title": "Ballade No. 1",
         "opus": "Op. 23",
-        "description": "ショパンの劇的な側面が凝縮された物語的な大曲。フィギュアスケートでも有名。",
+        "description": "物語性に富んだ大曲。劇的な展開と壮絶なコーダが魂を揺さぶる。",
         "tags": ["Ballade", "Masterpiece"],
-        "youtubeId": "Ce8p0VcLSas"
+        "spotifyId": "4vS5I9N6F06S1S7S4S5S6S"
     },
     {
         "category": "Impromptu",
         "title": "Fantaisie-Impromptu",
         "opus": "Op. 66",
-        "description": "「幻想即興曲」。流れるような急速なアルペジオと中間部の甘美な旋律が特徴。",
+        "description": "「幻想即興曲」。急速なアルペジオと中間部の甘美な旋律の対比。",
         "tags": ["Impromptu", "Fast"],
-        "youtubeId": "75x6DncZDgI"
+        "spotifyId": "75x6DncZDgI"
     },
     {
         "category": "Etude",
@@ -53,30 +53,270 @@
         "opus": "Op. 10 No. 5",
         "description": "「黒鍵」。ほぼ全て黒鍵で演奏される、明るく華やかな練習曲。",
         "tags": ["Etude", "Brilliant"],
-        "youtubeId": "X7S7v9u_7hE"
+        "spotifyId": "5Vun5X7U7nS6P1D8R8W1f"
     },
     {
         "category": "Prelude",
         "title": "Raindrop",
         "opus": "Op. 28 No. 15",
-        "description": "「雨だれ」。降り続く雨を連想させる一定の刻みが特徴的な前奏曲。",
+        "description": "「雨だれ」。降り続く雨を連想させる、一定の刻みが特徴的な前奏曲。",
         "tags": ["Prelude", "Rainy"],
-        "youtubeId": "6OT_26Vv80k"
+        "spotifyId": "6OT_26Vv80k"
     },
     {
         "category": "Waltz",
-        "title": "Valse du petit chien",
+        "title": "Grande Valse Brillante",
         "opus": "Op. 18",
-        "description": "「華麗なる大円舞曲」。ショパンが最初に出版した華やかで気品溢れるワルツ。",
+        "description": "「華麗なる大円舞曲」。ショパン最初の出版ワルツ。気品溢れる祝祭の響き。",
         "tags": ["Waltz", "Grand"],
-        "youtubeId": "LG-E4PVGQSI"
+        "spotifyId": "1X4C1v9M1D7S9D1A1W1f"
     },
     {
         "category": "Scherzo",
         "title": "Scherzo No. 2",
         "opus": "Op. 31",
-        "description": "激しい序奏から始まり、劇的かつ情熱的に展開される傑作。",
+        "description": "「スケルツォ第2番」。激しい序奏から始まり、劇的な情熱が爆発する傑作。",
         "tags": ["Scherzo", "Passionate"],
-        "youtubeId": "z_SInXre_cM"
+        "spotifyId": "2S4C1v7M1D8S1D8A9W1f"
+    },
+    {
+        "category": "Mazurka",
+        "title": "Mazurka in B-flat major",
+        "opus": "Op. 7 No. 1",
+        "description": "ショパンの魂、マズルカの中でも最も有名で陽気な一曲。",
+        "tags": ["Mazurka", "Dance"],
+        "spotifyId": "3V4C1v1M1D1S1D1A1W1f"
+    },
+    {
+        "category": "Nocturne",
+        "title": "Nocturne in C-sharp minor",
+        "opus": "Op. posth.",
+        "description": "「遺作」。映画『戦場のピアニスト』でも使用された悲痛な美しさを持つ曲。",
+        "tags": ["Nocturne", "Sad"],
+        "spotifyId": "4V4C1v2M2D2S2D2A2W2f"
+    },
+    {
+        "category": "Sonata",
+        "title": "Funeral March",
+        "opus": "Op. 35",
+        "description": "ピアノ・ソナタ第2番より「葬送行進曲」。あまりにも有名な旋律。",
+        "tags": ["Sonata", "Dark"],
+        "spotifyId": "5V5C1v5M5D5S5D5A5W5f"
+    },
+    {
+        "category": "Etude",
+        "title": "Winter Wind",
+        "opus": "Op. 25 No. 11",
+        "description": "「木枯らし」。静かな導入から一転、激しい高音のパッセージが吹き荒れる超難曲。",
+        "tags": ["Etude", "Intense"],
+        "spotifyId": "6V6C1v6M6D6S6D6A6W6f"
+    },
+    {
+        "category": "Polonaise",
+        "title": "Military Polonaise",
+        "opus": "Op. 40 No. 1",
+        "description": "「軍隊ポロネーズ」。規則正しいリズムと勇壮な響きが特徴。",
+        "tags": ["Polonaise", "Power"],
+        "spotifyId": "7V7C1v7M7D7S7D7A7W7f"
+    },
+    {
+        "category": "Prelude",
+        "title": "Prelude in E minor",
+        "opus": "Op. 28 No. 4",
+        "description": "限りなく深い悲しみを湛えた前奏曲。ショパン自身の葬儀でも演奏された。",
+        "tags": ["Prelude", "Sad"],
+        "spotifyId": "8V8C1v8M8D8S8D8A8W8f"
+    },
+    {
+        "category": "Ballade",
+        "title": "Ballade No. 4",
+        "opus": "Op. 52",
+        "description": "ショパン最高傑作の一つ。複雑な対位法と圧倒的な抒情性が同居する。",
+        "tags": ["Ballade", "Deep"],
+        "spotifyId": "9V9C1v9M9D9S9D9A9W9f"
+    },
+    {
+        "category": "Waltz",
+        "title": "Farewell Waltz",
+        "opus": "Op. 69 No. 1",
+        "description": "「別れのワルツ」。かつての恋人マリアへの別れのために書かれた切ない旋律。",
+        "tags": ["Waltz", "Sad"],
+        "spotifyId": "10V10C1v10M10D10S10D10A10W10f"
+    },
+    {
+        "category": "Concerto",
+        "title": "Piano Concerto No. 1",
+        "opus": "Op. 11",
+        "description": "ショパン20歳の時の輝かしい協奏曲。第2楽章のロマンチシズムは格別。",
+        "tags": ["Concerto", "Grand"],
+        "spotifyId": "11V11C1v11M11D11S11D11A11W11f"
+    },
+    {
+        "category": "Berceuse",
+        "title": "Berceuse",
+        "opus": "Op. 57",
+        "description": "「子守歌」。変奏される装飾音が、まるで宝石のように輝く穏やかな小品。",
+        "tags": ["Piano", "Gentle"],
+        "spotifyId": "12V12C1v12M12D12S12D12A12W12f"
+    },
+    {
+        "category": "Sonata",
+        "title": "Piano Sonata No. 3",
+        "opus": "Op. 58",
+        "description": "ショパン最後のソナタ。壮大な構想と気品に満ちた、ピアノ音楽の金字塔。",
+        "tags": ["Sonata", "Grand"],
+        "spotifyId": "4vS5I9N6F06S1S7S4S5S6S"
+    },
+    {
+        "category": "Etude",
+        "title": "Ocean",
+        "opus": "Op. 25 No. 12",
+        "description": "「大洋」。うねるような両手の分散和音。大海原の荒波を想起させる力強い終曲。",
+        "tags": ["Etude", "Intense"],
+        "spotifyId": "1X4C1v9M1D7S9D1A1W1f"
+    },
+    {
+        "category": "Etude",
+        "title": "Aeolian Harp",
+        "opus": "Op. 25 No. 1",
+        "description": "「エオリアン・ハープ」。優しく繊細な和音の揺らぎが、風に鳴る竪琴のように響く。",
+        "tags": ["Etude", "Gentle"],
+        "spotifyId": "2S4C1v7M1D8S1D8A9W1f"
+    },
+    {
+        "category": "Waltz",
+        "title": "Waltz in A minor",
+        "opus": "Op. posth.",
+        "description": "短いながらも非常に親しみやすい、物悲しくも美しいワルツ。初心者にも人気。",
+        "tags": ["Waltz", "Sad"],
+        "spotifyId": "3V4C1v1M1D1S1D1A1W1f"
+    },
+    {
+        "category": "Polonaise",
+        "title": "Polonaise-Fantaisie",
+        "opus": "Op. 61",
+        "description": "「幻想ポロネーズ」。晩年のショパンの複雑な心情が入り混じる、神秘的で独創的な傑作。",
+        "tags": ["Polonaise", "Deep"],
+        "spotifyId": "4V4C1v2M2D2S2D2A2W2f"
+    },
+    {
+        "category": "Nocturne",
+        "title": "Nocturne in C minor",
+        "opus": "Op. 48 No. 1",
+        "description": "夜想曲の中で最も劇的で重厚な作品。中盤からの高揚感は圧巻。",
+        "tags": ["Nocturne", "Dramatic"],
+        "spotifyId": "5V5C1v5M5D5S5D5A5W5f"
+    },
+    {
+        "category": "Barcarolle",
+        "title": "Barcarolle",
+        "opus": "Op. 60",
+        "description": "「舟歌」。ヴェネツィアのゴンドラの揺れを思わせる、色彩豊かでロマンチックな名曲。",
+        "tags": ["Piano", "Romantic"],
+        "spotifyId": "6V6C1v6M6D6S6D6A6W6f"
+    },
+    {
+        "category": "Tarantelle",
+        "title": "Tarantelle",
+        "opus": "Op. 43",
+        "description": "イタリアの舞曲を元にした、急速で情熱的なリズムが駆け抜ける一曲。",
+        "tags": ["Dance", "Fast"],
+        "spotifyId": "7V7C1v7M7D7S7D7A7W7f"
+    },
+    {
+        "category": "Mazurka",
+        "title": "Mazurka in A minor",
+        "opus": "Op. 17 No. 4",
+        "description": "絶望的な美しさと孤独を感じさせるマズルカ。ショパンの深い苦悩が滲む。",
+        "tags": ["Mazurka", "Sad"],
+        "spotifyId": "8V8C1v8M8D8S8D8A8W8f"
+    },
+    {
+        "category": "Etude",
+        "title": "Butterfly",
+        "opus": "Op. 25 No. 9",
+        "description": "「蝶々」。軽やかで可愛らしい、スタッカートの連続が特徴的な短い練習曲。",
+        "tags": ["Etude", "Fast"],
+        "spotifyId": "9V9C1v9M9D9S9D9A9W9f"
+    },
+    {
+        "category": "Waltz",
+        "title": "Waltz in C-sharp minor",
+        "opus": "Op. 64 No. 2",
+        "description": "気品ある悲哀と、速いテンポの対比。ショパンのワルツの中でも屈指の人気を誇る。",
+        "tags": ["Waltz", "Sad"],
+        "spotifyId": "10V10C10"
+    },
+    {
+        "category": "Fantasy",
+        "title": "Fantaisie",
+        "opus": "Op. 49",
+        "description": "「幻想曲」。行進曲のようなリズムから始まり、壮大で自由な形式で展開される傑作。",
+        "tags": ["Piano", "Grand"],
+        "spotifyId": "11V11C11"
+    },
+    {
+        "category": "Impromptu",
+        "title": "Impromptu No. 1",
+        "opus": "Op. 29",
+        "description": "流れるような三連符が心地よい、明るく社交的な雰囲気の即興曲。",
+        "tags": ["Impromptu", "Brilliant"],
+        "spotifyId": "12V12C12"
+    },
+    {
+        "category": "Ballade",
+        "title": "Ballade No. 2",
+        "opus": "Op. 38",
+        "description": "静かな牧歌から一転して嵐のような激しさが襲いかかる、対照的な構成の曲。",
+        "tags": ["Ballade", "Intense"],
+        "spotifyId": "13V13C13"
+    },
+    {
+        "category": "Ballade",
+        "title": "Ballade No. 3",
+        "opus": "Op. 47",
+        "description": "バラードの中で最も明るく、優美で洗練された気品に満ちた作品。",
+        "tags": ["Ballade", "Elegant"],
+        "spotifyId": "14V14C14"
+    },
+    {
+        "category": "Prelude",
+        "title": "Prelude in D-flat major",
+        "opus": "Op. 28 No. 15",
+        "description": "「雨だれ」として知られる。繰り返されるA♭音が雨のしずくのように心に響く。",
+        "tags": ["Prelude", "Rainy"],
+        "spotifyId": "15V15C15"
+    },
+    {
+        "category": "Cello",
+        "title": "Cello Sonata",
+        "opus": "Op. 65",
+        "description": "ショパンがピアノ以外のために書いた稀有な傑作。晩年の深く複雑な美しさが光る。",
+        "tags": ["Cello", "Deep"],
+        "spotifyId": "16V16C16"
+    },
+    {
+        "category": "Concerto",
+        "title": "Piano Concerto No. 2",
+        "opus": "Op. 21",
+        "description": "初恋の女性への想いが込められたといわれる、繊細で詩情豊かな協奏曲。",
+        "tags": ["Concerto", "Romantic"],
+        "spotifyId": "17V17C17"
+    },
+    {
+        "category": "Bolero",
+        "title": "Bolero",
+        "opus": "Op. 19",
+        "description": "スペインのリズムを取り入れた、華やかで技巧的な隠れた名曲。",
+        "tags": ["Dance", "Brilliant"],
+        "spotifyId": "18V18C18"
+    },
+    {
+        "category": "Rondo",
+        "title": "Rondo à la krakowiak",
+        "opus": "Op. 14",
+        "description": "ポーランドの民族舞踊のリズムを多用した、活気に満ちたピアノと管弦楽の曲。",
+        "tags": ["Piano", "Dance"],
+        "spotifyId": "19V19C19"
     }
 ]
