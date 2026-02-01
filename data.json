@@ -1,0 +1,82 @@
+[
+    {
+        "category": "Nocturne",
+        "title": "Nocturne Op. 9 No. 2",
+        "opus": "Op. 9 No. 2",
+        "description": "夜の静寂に響く、最も愛された旋律。",
+        "tags": ["Nocturne", "Piano"],
+        "spotifyId": "61YM5SkqqeUjIBL7It56cs" 
+    },
+    {
+        "category": "Polonaise",
+        "title": "Heroic Polonaise",
+        "opus": "Op. 53",
+        "description": "「英雄」。力強く壮大な傑作。",
+        "tags": ["Polonaise", "Heroic"],
+        "spotifyId": "2MSgFefjK0T7Iwjvr3OKqV"
+    },
+    {
+        "category": "Etude",
+        "title": "Revolutionary",
+        "opus": "Op. 10 No. 12",
+        "description": "「革命」。激動の感情が左手の奔流となって押し寄せる練習曲。",
+        "tags": ["Etude", "Dramatic"],
+        "youtubeId": "Gi5VTBdKbFM"
+    },
+    {
+        "category": "Waltz",
+        "title": "Minute Waltz",
+        "opus": "Op. 64 No. 1",
+        "description": "「子犬のワルツ」。軽やかで愛らしい、一瞬のきらめきのような舞曲。",
+        "tags": ["Waltz", "Minute"],
+        "youtubeId": "3H0SRv8Qn3A"
+    },
+    {
+        "category": "Ballade",
+        "title": "Ballade No. 1",
+        "opus": "Op. 23",
+        "description": "ショパンの劇的な側面が凝縮された物語的な大曲。フィギュアスケートでも有名。",
+        "tags": ["Ballade", "Masterpiece"],
+        "youtubeId": "Ce8p0VcLSas"
+    },
+    {
+        "category": "Impromptu",
+        "title": "Fantaisie-Impromptu",
+        "opus": "Op. 66",
+        "description": "「幻想即興曲」。流れるような急速なアルペジオと中間部の甘美な旋律が特徴。",
+        "tags": ["Impromptu", "Fast"],
+        "youtubeId": "75x6DncZDgI"
+    },
+    {
+        "category": "Etude",
+        "title": "Black Keys",
+        "opus": "Op. 10 No. 5",
+        "description": "「黒鍵」。ほぼ全て黒鍵で演奏される、明るく華やかな練習曲。",
+        "tags": ["Etude", "Brilliant"],
+        "youtubeId": "X7S7v9u_7hE"
+    },
+    {
+        "category": "Prelude",
+        "title": "Raindrop",
+        "opus": "Op. 28 No. 15",
+        "description": "「雨だれ」。降り続く雨を連想させる一定の刻みが特徴的な前奏曲。",
+        "tags": ["Prelude", "Rainy"],
+        "youtubeId": "6OT_26Vv80k"
+    },
+    {
+        "category": "Waltz",
+        "title": "Valse du petit chien",
+        "opus": "Op. 18",
+        "description": "「華麗なる大円舞曲」。ショパンが最初に出版した華やかで気品溢れるワルツ。",
+        "tags": ["Waltz", "Grand"],
+        "youtubeId": "LG-E4PVGQSI"
+    },
+    {
+        "category": "Scherzo",
+        "title": "Scherzo No. 2",
+        "opus": "Op. 31",
+        "description": "激しい序奏から始まり、劇的かつ情熱的に展開される傑作。",
+        "tags": ["Scherzo", "Passionate"],
+        "youtubeId": "z_SInXre_cM"
+    }
+]

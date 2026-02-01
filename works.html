@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frédéric Chopin - Works</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Noto+Serif+JP:wght@300;500&display=swap" rel="stylesheet">
+    <script src="script.js" defer></script>
+</head>
+<body>
+
+    <header>
+        <div class="logo">F. Chopin</div>
+        <nav class="nav-links">
+            <a href="index.html">Home</a>
+            <a href="index.html#biography">Biography</a>
+            <a href="others.html">Others</a>
+            <a href="works.html" style="color: #fff;">Works</a> </nav>
+    </header>
+
+    <section class="hero" style="height: 60vh;"> <div class="hero-content fade-in">
+            <h1>Masterpieces</h1>
+            <p>魂を揺さぶる傑作選</p>
+        </div>
+    </section>
+    <div class="container">
+    <section id="works">
+        <h2 class="section-title fade-in">Selected Works</h2>
+        
+<div class="controls-wrapper fade-in">
+    <div class="search-box">
+        <input type="text" id="search-input" placeholder="Search title, category, or tag..." autocomplete="off">
+        <div id="custom-suggestions" class="suggestions-list"></div>
+    </div>
+    <div class="sort-box">
+        <select id="sort-select">
+            <option value="default">Sort by (Default)</option>
+            <option value="title">Title (A-Z)</option>
+            <option value="category">Category</option>
+            <option value="opus">Opus Number</option>
+        </select>
+    </div>
+</div>
+
+        <div id="works-grid" class="grid"></div>
+    </section>
+</div>
+<div id="audio-controls" class="audio-bar">
+    <div id="yt-player"></div> <div class="audio-info">
+        <span id="now-playing">Select a song</span>
+    </div>
+    <button id="stop-btn">Close</button> 
+</div>
+</body>
+
+<div id="yt-player" style="display: none;"></div>
+
+    <footer>
+        Test
+    </footer>
+
+</body>
+</html>
